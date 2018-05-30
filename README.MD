@@ -76,4 +76,4 @@ Fatalities
 
 JustJohn83 for his suggestions and support
 
-(If I forget somebody, I apologize.)
+(If I forget somebody, I apologize and please do let me know so that I can add you to the credits list.)
