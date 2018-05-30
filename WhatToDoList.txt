@@ -1,0 +1,54 @@
+
+--------
+Specials
+--------
+
+Lightning Bolt [Finished; possible enhancement]
+Sonic Scream [Finished]
+Extending Crayon [Finished]
+Laser Eyes and Hand Beam
+Octi-Blade [Finished]
+
+------
+Supers
+------
+
+Level 1
+-------
+Detonator Bubbles [Finished; possible critical hit addition]
+Maximum Bubbles [Finished; possible critical hit addition]
+Mega Laser Beam [Finished; needs enhancement]
+
+Level 2
+-------
+Super Sonic Scream [Finished]
+
+Level 3
+-------
+Cray-Tana
+Thunderhead
+Super Thunder Clap
+
+Level 4
+-------
+
+
+----------
+Fatalities
+----------
+
+Kiss of Death [Finished]
+Sonic Screech [Finished]
+Impaling Crayon 
+Beheading Clap
+Animality: Squirrel
+Friendship: Harmony Bunny [Finished; possible enhancement or change]
+Stage: 
+
+-----------
+Other Stuff
+-----------
+-Sound clips
+-Throw state (Sonya type)
+-Critical Hits
+-Aerial combo
