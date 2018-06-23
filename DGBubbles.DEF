@@ -8,7 +8,7 @@ name = "DGBubbles"
 displayname = "Bubbles"
 versiondate = 05,03,2010
 mugenversion = 1.0
-author = "DoomGuy II"
+author = "DOSGeek 95"
 pal.defaults = 1,2,3,4
 
 [Files]

@@ -1,6 +1,6 @@
-DG Blossom MUGEN Character
+DG Bubbles MUGEN Character
 
-Copyright (c) 2009-present DOSGeek 95
+Copyright (c) 2010-present DOSGeek 95
 
 DISTRIBUTION: This character can be freely distributed as long as it's NOT sold for profit AND that the original files are still intact.
 
